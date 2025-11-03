@@ -1,4 +1,4 @@
-# CS101 Word Game
+
 ## Brief Description
 A game similar to Word chain, an existing word game in which players come up with words that begin with the letter or letters that the previous word ended with. A category of words is usually chosen: an example chain for food would be soup, peas, sugar, rice. However, my version has no category and instead rules over the number of letters that must be in the word. 
 
