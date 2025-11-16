@@ -25,20 +25,4 @@ Rules:
 7. You may not repeat a word you've already used in the round.
 8. You have 3 regenerations (new starting letters) until the round is over.
 The goal is to get as many points as possible before the round is over.
----
 
-## Technical Considerations
-
-What information is needed to fully describe the state of the game? 
-A list of English words of lengths 3-10.
-A list of all previous guesses made by the player.
-Number of turns remaining. 
-Counter of points that is visible to player. 
-A visible notification after each time the player submits a word to showing whether their word is valid.
-A visible counter of how many letters the next word has to be.
-
-## TODOs
-- Implement word validation logic
-- Create scoring system
-- Add regeneration functionality
-- Test game with various word chains
